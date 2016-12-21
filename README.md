@@ -10,7 +10,7 @@ Per svolgere l'attività di laboratorio digitare, in una console della macchina 
 $ cd
 $ . Flask/bin/activate
 $ git clone git@bitbucket.org:augusto_ciuffoletti/lab_flask_1.git
-$ cd lab_flask_0
+$ cd lab_flask_1
 $ export FLASK_APP=route.py
 $ flask run --host=0.0.0.0
 ```
